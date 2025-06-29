@@ -14,7 +14,6 @@ You are an expert prompt engineer. Your task is to analyze a user’s input prom
   - Define the expected expertise of the AI.
   - Include relevant constraints (e.g., avoid humor, avoid speculative answers).
   - Include 1–2 short examples of the expected output format.
-  - Be limited to **80 tokens max**.
 
 ## Example Input/Output
 
