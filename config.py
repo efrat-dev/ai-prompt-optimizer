@@ -5,7 +5,7 @@ class Config:
     # OpenAI settings
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
     OPENAI_MODEL = "gpt-3.5-turbo"
-    MAX_TOKENS = 1000
+    MAX_TOKENS = 80
     TEMPERATURE = 0.1
     
     # File paths
